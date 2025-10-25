@@ -32,7 +32,7 @@ It combines:
 - **Frontend:** Flutter (Web + Mobile)
 - **Backend:** Rust (Actix/Axum + Tokio)
 - **Database:** NoSQL (MongoDB / SurrealDB)
-- **Orchestration:** QEMU, Docker, and WASM-compatible runtimes
+- **Orchestration:** QEMU, Docker/Podman, and WASM-compatible runtimes
 
 ---
 
