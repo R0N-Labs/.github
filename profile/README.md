@@ -99,7 +99,7 @@ flowchart TB
 
 | Service | Description | Status |
 | ------- | ----------- | ------ |
-| R0N-Ingress | High-performance edge and network gateway for protocol handling, routing, and policy enforcement. Acts as the primary entry point between devices, services, and backend systems. | WIP |
+| R0N-Ingress | High-performance edge and network gateway for protocol handling, routing, and policy enforcement. Acts as the primary entry point between devices, services, and backend systems. | v0.1.0-beta.1 |
 | R0N | Unified tool, plugin manager, and command-line interface for managing R0N modules, including lifecycle management, configuration, updates, and orchestration. | WIP |
 | R0N-Atlas | A distributed data platform composed of multiple interconnected databases, each optimized for a specific purpose (e.g. time-series, authentication, caching, fast lookup). Acts as the system of record for the R0N ecosystem. | WIP |
 | R0N-DNS | Programmable DNS service for dynamic environments, service discovery, and policy-based routing. | WIP |
